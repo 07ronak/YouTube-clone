@@ -50,7 +50,7 @@ Frontend application with Google authentication, video upload via signed URLs, a
 
 ## Data Flow
 
-[![Architecture Diagram](Dataflow.png)](Dataflow.pdf)
+[![Architecture Diagram](DataFlow.png)](DataFlow.pdf)
 
 ## Project Structure
 
